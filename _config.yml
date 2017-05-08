@@ -15,7 +15,7 @@ description: "BlogInn is a bold theme for the Jekyll blogging platform. Availabl
 tagline: "Thoughts, stories and ideas."
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: /
+baseurl: 
 
 sass:
   sass_dir: _sass
