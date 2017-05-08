@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "BlogInn"
+title: "Dávid Molnár"
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: "BlogInn is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net."
@@ -15,13 +15,13 @@ description: "BlogInn is a bold theme for the Jekyll blogging platform. Availabl
 tagline: "Thoughts, stories and ideas."
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl:
+baseurl: /blog
 
 sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "http://justgoodthemes.com"
+url: "https://mdavid626.github.io/blog/"
 
 # Site navigation - each item must have a title and a url.
 navigation:
@@ -29,8 +29,6 @@ navigation:
   url: /
 - text: About
   url: /about/
-- text: Style Guides
-  url: /style-guide/
 - text: Archives
   url: /tags/
 
@@ -52,16 +50,16 @@ banner_image: images/banner.jpg
 mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 
 # Social links in the site footer
-twitter_username: "username"
-facebook_username: "username"
+twitter_username: "mdavid626"
+facebook_username: "mdavid626"
 googleplus_username: "+username"
-github_username: "username"
+github_username: "mdavid626"
 codepen_username: "username"
 dribbble_uername: "username"
-medium_username: "@username"
-instagram_username: "username"
-pinterest_username: "username"
-linkedin_username: "username"
+#medium_username: "@username"
+instagram_username: "mdavid626"
+pinterest_username: "mdavid626"
+linkedin_username: "mdavid626"
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
