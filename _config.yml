@@ -21,7 +21,7 @@ sass:
   sass_dir: _sass
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "http://blog.mdavid626.com"
+url: "https://blog.mdavid626.com"
 
 # Site navigation - each item must have a title and a url.
 navigation:
