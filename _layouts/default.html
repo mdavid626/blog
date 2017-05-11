@@ -25,7 +25,7 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:type" content="article" />
     <!--<meta property="og:url" content="http://www.example.com/" />-->
-    <meta property="og:image" content="{% if page.banner_image %}{{ page.banner_image }}{% else %}https://blog.mdavid626.com/images/aboutPage.jpg{% endif %}" />
+    <meta property="og:image" content="{% if page.banner_image %}{{ "/images/posts/" | append: page.banner_image | prepend: site.baseurl }}{% else %}https://blog.mdavid626.com/images/aboutPage.jpg{% endif %}" />
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" /> 
     <meta property="og:site_name" content="Dávid Molnár Blog" />
     <meta property="fb:admins" content="mdavid626" />
