@@ -9,7 +9,7 @@ banner_image: aboutPage.jpg
 
 He likes simplicity and has a proactive approach for solving problems. He is always passionate and reliable about work.
 
-He lives in Germany with his beautiful girlfiend and a cat.
+David lives in Germany with his beautiful girlfiend and a cat.
 
 
 *Thank You for reading!*
