@@ -9,6 +9,8 @@ banner_image: aboutPage.jpg
 
 He likes simplicity and has a proactive approach for solving problems. He is always passionate and reliable about work.
 
+>Don't worry about what anybody else is going to do. The best way to predict the future is to invent it. <cite>Alan Kay</cite>
+
 David lives in Germany with his beautiful girlfiend and a cat.
 
 
