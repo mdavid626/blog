@@ -9,10 +9,14 @@
 title: "David Molnar"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "BlogInn is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net."
+description: "David Molnar on Programming, UX, Design, Productivity, .NET, Azure and More."
+
+keywords: "Computer, .NET, C#, Microsoft, Weblog, Germany, Munich, ASP.NET, Azure, Cloud, Productivity, UX, User Experience, Design, ASP.NET, C#, Programming, Javascript"
 
 # Tagline near the site title
 tagline: "Thoughts, stories and ideas."
+
+site_name: "David Molnar Blog"
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl: 
@@ -60,6 +64,10 @@ medium_username: "@mdavid626"
 instagram_username: "mdavid626"
 pinterest_username: "mdavid626"
 linkedin_username: "mdavid626"
+
+# Facebook
+fb_appid: "263003530833663"
+fb_admins: "mdavid626"
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
