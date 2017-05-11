@@ -13,19 +13,18 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
     
     <!-- Twitter Card data -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@publisher_handle">
+    <meta name="twitter:card" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:site" content="Dávid Molnár Blog">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta name="twitter:creator" content="Dávid Molnár">
-    <!-- Twitter Summary card images must be at least 120x120px -->
-    <meta name="twitter:image" content="http://www.example.com/image.jpg">
+    <meta name="twitter:image" content="{% if page.banner_image %}{{ "/images/posts/" | append: page.banner_image | prepend: site.url }}{% else %}https://blog.mdavid626.com/images/aboutPage.jpg{% endif %}">
 
     <!-- Open Graph data -->
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:type" content="article" />
-    <!--<meta property="og:url" content="http://www.example.com/" />-->
-    <meta property="og:image" content="{% if page.banner_image %}{{ "/images/posts/" | append: page.banner_image | prepend: site.baseurl }}{% else %}https://blog.mdavid626.com/images/aboutPage.jpg{% endif %}" />
+    <meta property="og:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:image" content="{% if page.banner_image %}{{ "/images/posts/" | append: page.banner_image | prepend: site.url }}{% else %}https://blog.mdavid626.com/images/aboutPage.jpg{% endif %}" />
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" /> 
     <meta property="og:site_name" content="Dávid Molnár Blog" />
     <meta property="fb:admins" content="mdavid626" />
