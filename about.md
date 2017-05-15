@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this blog
-description: About David Molnar
+description: About Dávid Molnár
 banner_image: aboutPage.jpg
 ---
 
