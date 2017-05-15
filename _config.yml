@@ -9,14 +9,14 @@
 title: "Dávid Molnár"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "David Molnar on Programming, UX, Design, Productivity, .NET, Azure and more."
+description: "Dávid Molnar on Programming, UX, Design, Productivity, .NET, Azure and more."
 
 keywords: "Computer, .NET, C#, Microsoft, Weblog, Germany, Munich, ASP.NET, Azure, Cloud, Productivity, UX, User Experience, Design, ASP.NET, Programming, Javascript"
 
 # Tagline near the site title
 tagline: "Thoughts, stories and ideas."
 
-site_name: "David Molnar Blog"
+site_name: "Dávid Molnár Blog"
 
 # The subpath of your site, e.g. /blog, for generating urls
 baseurl: 
@@ -40,9 +40,9 @@ navigation:
 disqus: david-molnar-blog
 
 # Author information - author info at the bottom of the post
-author_name: "David Molnar"
-author_bio: "David is a skilled Fullstack Developer focused on Microsoft technologies."
-author_url:  "http://justgoodthemes.com"
+author_name: "Dávid Molnár"
+author_bio: "Dávid is a skilled Fullstack Developer focused on Microsoft technologies."
+author_url:  "https://mdavid626.com"
 author_location: "Munich, Germany"
 author_image: /images/authorimage.jpg
 
