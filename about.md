@@ -13,7 +13,7 @@ He likes simplicity and has a proactive approach for solving problems. He is alw
 
 >Don't worry about what anybody else is going to do. The best way to predict the future is to invent it. <cite>Alan Kay</cite>
 
-David lives in Munich, Germany with his beautiful girlfiend.
+David lives in Munich, Germany with his beautiful girlfriend.
 
 
 *Thank You for reading!*
