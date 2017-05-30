@@ -92,7 +92,7 @@ Which at first seems to be working just fine. But the stretching will not work e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dAWktz9doy4" frameborder="0" allowfullscreen></iframe>
 
-You will see the background cover image and then the first frame of the video. Do you see the problem? They are not positioned and stretched exactly the same. I think it is because of the aspect ratio of the video. So, we'll have to consider the aspect ratio of the browser window to set width and height pf the video.
+You will see the background cover image and then the first frame of the video. Do you see the problem? They are not positioned and stretched exactly the same. I think it is because of the aspect ratio of the video. So, we'll have to consider the aspect ratio of the browser window to set width and height of the video.
 
 My video's aspect ratio is 16:9 so I'll use this code:
 
