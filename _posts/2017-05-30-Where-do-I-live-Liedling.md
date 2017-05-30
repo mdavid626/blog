@@ -6,7 +6,7 @@ banner_image: Liedling-IMG_3722.JPG
 tags: [blogging, life, liedling, spring, winter]
 ---
 
-I recently moved to Germany. I live in Liedling, Lengdorf near Munich. It's a small village with a couple of houses. In German language it's called a `Bauernhof`. 
+I recently moved to Germany. I live in [Liedling, Lengdorf](https://www.google.de/maps/place/48%C2%B016'44.8%22N+12%C2%B001'47.7%22E/@48.279109,12.0286593,448m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d48.279109!4d12.029926) near Munich. It's a small village with a couple of houses. In German language it's called a `Bauernhof`. 
 
 <!--more-->
 
