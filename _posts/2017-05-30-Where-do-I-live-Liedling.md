@@ -2,7 +2,7 @@
 layout: post
 title:  "Where do I live?"
 date:   2017-05-30
-banner_image: beach.jpg
+banner_image: Liedling-IMG_3722.JPG
 tags: [blogging, life, liedling, spring, winter]
 ---
 
