@@ -19,53 +19,50 @@ Here are some pictures about Liedling and the neighborhood:
 {% include image_full.html imageurl="/images/posts/Liedling-IMG_2687.JPG" link="/images/posts/Liedling-IMG_2687.JPG"
 title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_2689.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_2689.JPG" link="/images/posts/Liedling-IMG_2689.JPG"
 title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_2690.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_2690.JPG" link="/images/posts/Liedling-IMG_2690.JPG"
 title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_2693.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_2693.JPG" link="/images/posts/Liedling-IMG_2693.JPG"
 title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_2699.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_2699.JPG" link="/images/posts/Liedling-IMG_2699.JPG"
 title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_2741.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_2741.JPG" link"/images/posts/Liedling-IMG_2741.JPG"
 title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_2806.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_2806.JPG" link"/images/posts/Liedling-IMG_2806.JPG"
 title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_2811.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_2811.JPG" link"/images/posts/Liedling-IMG_2811.JPG"
 title="Solitary man" caption="Solitary man" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_2813.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_2813.JPG" link"/images/posts/Liedling-IMG_2813.JPG" 
 title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_3361.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_3361.JPG" link"/images/posts/Liedling-IMG_3361.JPG"
 title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_3396.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_3396.JPG" link"/images/posts/Liedling-IMG_3396.JPG"
 title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_3397.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_3397.JPG" link"/images/posts/Liedling-IMG_3397.JPG" 
 title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_3454.JPG" 
-title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
-
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_3465.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_3465.JPG" link"/images/posts/Liedling-IMG_3465.JPG"
 title="Long way home" caption="Long way home" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_3466.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_3466.JPG" link"/images/posts/Liedling-IMG_3466.JPG" 
 title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_3468.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_3468.JPG" link"/images/posts/Liedling-IMG_3468.JPG"
 title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_3722.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_3722.JPG" link"/images/posts/Liedling-IMG_3722.JPG" 
 title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_3729.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_3729.JPG" link"/images/posts/Liedling-IMG_3729.JPG" 
 title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
