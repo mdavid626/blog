@@ -16,7 +16,7 @@ Recently I moved to Germany. I live in [Liedling, Lengdorf](https://goo.gl/maps/
 
 Here are some pictures about Liedling and the neighborhood:
 
-{% include image_full.html imageurl="/images/posts/Liedling-IMG_2687.JPG" 
+{% include image_full.html imageurl="/images/posts/Liedling-IMG_2687.JPG" link="/images/posts/Liedling-IMG_2687.JPG"
 title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
 
 {% include image_full.html imageurl="/images/posts/Liedling-IMG_2689.JPG" 
