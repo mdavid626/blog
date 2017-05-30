@@ -23,7 +23,7 @@ All right, so you picked one? Absolutely amazing, let's go on.
 Today most modern browses support native HTML5 video. Just go to [caniuse.com](http://caniuse.com/#search=video) to check it out:
 
 {% include image_caption.html imageurl="/images/posts/caniuse-video.jpg" 
-title="Suport of HTML5 video element amoung browsers" caption="Suport of HTML5 video element amoung browsers" %}
+title="Suport of HTML5 video element among browsers" caption="Suport of HTML5 video element among browsers" %}
 
 Basically, every browser supports it. Even Internet Explorer. Great! Not so fast…
 
