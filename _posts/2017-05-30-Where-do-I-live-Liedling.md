@@ -34,7 +34,7 @@ title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
 title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
 
 {% include image_full.html imageurl="/images/posts/Liedling-IMG_2811.JPG" 
-title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
+title="Solitary man" caption="Solitary man" %}
 
 {% include image_full.html imageurl="/images/posts/Liedling-IMG_2813.JPG" 
 title="Liedling, Lengdorf in winter" caption="Liedling, Lengdorf in winter" %}
@@ -52,7 +52,7 @@ title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
 title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
 
 {% include image_full.html imageurl="/images/posts/Liedling-IMG_3465.JPG" 
-title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
+title="Long way home" caption="Long way home" %}
 
 {% include image_full.html imageurl="/images/posts/Liedling-IMG_3466.JPG" 
 title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
@@ -64,7 +64,4 @@ title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
 title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
 
 {% include image_full.html imageurl="/images/posts/Liedling-IMG_3729.JPG" 
-title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
-
-{% include image_full.html imageurl="/images/posts/Liedling-IMG-20170305-WA0015.jpg" 
 title="Liedling, Lengdorf in spring" caption="Liedling, Lengdorf in spring" %}
