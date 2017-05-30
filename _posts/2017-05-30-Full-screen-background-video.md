@@ -25,9 +25,9 @@ Today most modern browses support native HTML5 video. Just go to [caniuse.com](h
 {% include image_caption.html imageurl="/images/posts/caniuse-video.jpg" 
 title="Suport of the HTML5 video element among browsers" caption="Suport of the HTML5 video element among browsers" %}
 
-Basically, every browser supports it. Even Internet Explorer. Great! Not so fast…
+Basically, every browser supports it. Even Internet Explorer. Great! 
 
-On mobile, most of the browsers just won't play silent background video without user interaction. The user has to initiate the play manually. This means our video just won't work. The browsers won't even download the first frame of the video. This means, you will see basically nothing. 
+Not so fast… On mobile, most of the browsers just won't play silent background video without user interaction. The user has to initiate the play manually. This means our video just won't work. The browsers won't even download the first frame of the video. This means, you will see basically nothing. 
 
 Therefore, we will use a little workaround here. We'll place a static cover image as a background for the video. If the browser doesn't understand the video tag or just chooses not to play or download it, then the user will see the cover image. Which is of course not the so fancy as the video, but it's good enough.
 
