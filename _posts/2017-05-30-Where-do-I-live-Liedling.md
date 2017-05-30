@@ -4,15 +4,19 @@ title:  "Where do I live?"
 date:   2017-05-30
 banner_image: beach.jpg
 tags: [blogging, life, liedling, spring, winter]
----
+
+
+I recently moved to Germany. I live in Liedling, Lengdorf near Munich. It's a small village with a couple of houses. In German language it's called a `Bauernhof`. 
+
+<!--more-->
+
+Here are some pictures about Liedling and the neighborhood:
 
 {% include image_full.html imageurl="/images/posts/Liedling-IMG_2687.JPG" 
 title="" caption="" %}
 
 {% include image_full.html imageurl="/images/posts/Liedling-IMG_2689.JPG" 
 title="" caption="" %}
-
-<!--more-->
 
 {% include image_full.html imageurl="/images/posts/Liedling-IMG_2690.JPG" 
 title="" caption="" %}
