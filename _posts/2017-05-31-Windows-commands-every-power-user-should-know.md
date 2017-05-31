@@ -10,7 +10,7 @@ Who is a power user? According to Google:
 
 > Power user: a knowledgeable and sophisticated user of computers.
 
-If you consider yourself a sophisticated computer user then you should know the following Windows commands:
+If you consider yourself a sophisticated computer user, then you should know the following Windows commands:
 
 <!--more-->
 
