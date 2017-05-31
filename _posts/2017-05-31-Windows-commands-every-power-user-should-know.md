@@ -12,6 +12,8 @@ Who is a power user? According to Google:
 
 If you consider yourself a sophisticated computer user then you should know the following Windows commands:
 
+<!--more-->
+
 - Device Manager: `devmgmt.msc`
 - Disk Management: `diskmgmg.msc`
 - Certificates Current User: `certmgr.msc`
