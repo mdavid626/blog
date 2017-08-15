@@ -64,6 +64,7 @@ medium_username: "@mdavid626"
 instagram_username: "mdavid626"
 pinterest_username: "mdavid626"
 linkedin_username: "mdavid626"
+#weibo_username: "username"
 
 # Facebook
 fb_appid: "263003530833663"
@@ -72,7 +73,7 @@ fb_admins: "mdavid626"
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
 paginate_path: '/blog/page:num/'
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 permalink: pretty
 markdown: kramdown
