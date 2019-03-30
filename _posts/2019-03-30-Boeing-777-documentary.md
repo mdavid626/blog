@@ -3,7 +3,7 @@ layout: post
 title:  "Building the Boeing 777 Documentary (21st Century Jet)"
 date:   2019-03-30
 banner_image: United_Airlines_777_N797UA_LAX.jpg
-tags: [blogging, html5, video, dev, css]
+tags: [boeing, boeing-777, building, mullaly, lean, engineering, development, documentary]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0oyWZjdXxlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
