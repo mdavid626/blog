@@ -10,8 +10,6 @@ tags: [blogging, html5, video, dev, css]
 
 <!--more-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0oyWZjdXxlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5inPWgrjONc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/esmbJjK0M7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
