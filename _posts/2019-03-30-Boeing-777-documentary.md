@@ -25,6 +25,6 @@ The documentary has 5 episodes, each around one hour long.
 More info about the Boeing 777 story can be found in [Implementing Lean Software Development: From Concept to Cash](https://www.amazon.com/gp/product/0321437381) by [Mary Poppendieck](https://www.amazon.com/Mary-Poppendieck/e/B001IGNU3O/) and Tom Poppendieck.
 
 {% include image_caption.html imageurl="/images/posts/Implementing-Lean-Software-Development.jpg" 
-title="Implementing Lean Software Development: From Concept to Cash Cover" caption="Implementing Lean Software Development: From Concept to Cash" %}
+title="Implementing Lean Software Development: From Concept to Cash Cover" caption="Implementing Lean Software Development: From Concept to Cash" style="text-align: center" %}
 
 
