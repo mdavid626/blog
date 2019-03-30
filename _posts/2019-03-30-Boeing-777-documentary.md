@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Test"
+title:  "Building the Boeing 777 Documentary (21st Century Jet)"
 date:   2019-03-30
-banner_image: beach.jpg
+banner_image: United_Airlines_777_N797UA_LAX.jpg
 tags: [blogging, html5, video, dev, css]
 ---
 
