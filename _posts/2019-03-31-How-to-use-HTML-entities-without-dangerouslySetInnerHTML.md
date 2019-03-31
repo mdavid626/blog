@@ -21,7 +21,7 @@ function MyComponent({myTextFromDatabase}) {
 
 const myTextFromDatabase = 'First &middot; Second';
 <MyComponent myTextFromDatabase={myTextFromDatabase />}
- {% endhighlight js %}
+{% endhighlight js %}
  
  <!--more-->
  
@@ -32,15 +32,15 @@ const myTextFromDatabase = 'First &middot; Second';
  
  Use Unicode characters with [escape notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#Escape_notation) (e.g. `\u0057`) instead of HTML codes (`&middot;`). Find it in [this list](https://en.wikipedia.org/wiki/List_of_Unicode_characters) and use value from the Code column, e.g. `&middot;` translates to `U+00B7`. To use this in Javascript, simple use `\u0057`:
  
-   {% highlight js %}
-  function MyComponent({myTextFromDatabase}) {
-    const MIDDLE_DOT = '\u0057';
-    const text = myTextFromDatabase.replace(/&middot;/gi, MIDDLE_DOT);
-    return <div>{text}</div>;
-  }
+{% highlight js %}
+const MIDDLE_DOT = '\u0057';
+function MyComponent({myTextFromDatabase}) {
+  const text = myTextFromDatabase.replace(/&middot;/gi, MIDDLE_DOT);
+  return <div>{text}</div>;
+}
   
-  const myTextFromDatabase = 'First &middot; Second';
-  <MyComponent myTextFromDatabase={myTextFromDatabase />}
-   {% endhighlight js %}
+const myTextFromDatabase = 'First &middot; Second';
+<MyComponent myTextFromDatabase={myTextFromDatabase />}
+{% endhighlight js %}
  
  The replacement could happen beforehand, on the backend as well, or just like in the code above, in the rendering function. I used the [`replace`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace) function in Javascript, with a regex to replace all occurences of `&middot;` with `\u0057`.
