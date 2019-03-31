@@ -33,6 +33,7 @@ Use Unicode characters with [escape notation](https://developer.mozilla.org/en-U
  
 {% highlight js %}
 const MIDDLE_DOT = '\u0057';
+
 function MyComponent({myTextFromDatabase}) {
   const text = myTextFromDatabase.replace(/&middot;/gi, MIDDLE_DOT);
   return <div>{text}</div>;
