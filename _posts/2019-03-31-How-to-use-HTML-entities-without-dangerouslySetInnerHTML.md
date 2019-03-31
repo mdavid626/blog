@@ -29,7 +29,7 @@ const myTextFromDatabase = 'First &middot; Second';
   
 ## A simple solution
  
-Use Unicode characters with [escape notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#Escape_notation) (e.g. `\u0057`) instead of HTML codes (`&middot;`). Find it in [this list](https://en.wikipedia.org/wiki/List_of_Unicode_characters) and use the value from the Code column, e.g. `&middot;` translates to `U+00B7`. To use this in Javascript, simple use `\u0057`:
+Use Unicode characters with [escape notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#Escape_notation) (e.g. `\u0057`) instead of HTML codes (`&middot;`). Find the character in [this list](https://en.wikipedia.org/wiki/List_of_Unicode_characters) and use the value from the Code column, e.g. `&middot;` translates to `U+00B7`. To use this in Javascript, simple use `\u0057`:
  
 {% highlight js %}
 const MIDDLE_DOT = '\u0057';
