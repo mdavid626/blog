@@ -45,4 +45,4 @@ const myTextFromDatabase = 'First &middot; Second';
 The replacement could happen beforehand, on the backend as well, or just like in the code above, in the rendering function. I used the [`replace`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace) function in Javascript, with a regex to replace all occurences of `&middot;` with `\u0057`.
 
 ## Example
-An example React app is available in [this GitHub repository](https://blog.mdavid626.com/2019/03/31/How-to-use-HTML-entities-without-dangerouslySetInnerHTML/) and [here](https://mdavid626.github.io/react-html-entities-example/) is a live example.
+An example React app is available in [this GitHub repository](https://github.com/mdavid626/react-html-entities-example) is a live example.
