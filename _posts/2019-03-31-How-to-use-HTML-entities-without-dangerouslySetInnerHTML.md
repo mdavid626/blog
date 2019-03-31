@@ -6,9 +6,9 @@ banner_image: react-background.png
 tags: [react, web, development, code, tricks, html, html-entity, unicode, javascript]
 ---
 
-There may be times when you want to render a text with HTML entities in it in your React application. An [HTML entity](https://developer.mozilla.org/en-US/docs/Glossary/Entity) is a piece of text (`string`) that begins with an ampersand (`&`) and ends with a semicolon (`;`). They are frequently used to display reserved and invisible characters, like non-breaking spaces (`&nbsp;`) or soft hyphens (`&#8203;`) for marking line breaking opportunities.
+There may be times when you want to render a text with HTML entities in it in your [React](https://reactjs.org/) application. An [HTML entity](https://developer.mozilla.org/en-US/docs/Glossary/Entity) is a piece of text (`string`) that begins with an ampersand (`&`) and ends with a semicolon (`;`). They are frequently used to display reserved and invisible characters, like non-breaking spaces (`&nbsp;`) or soft hyphens (`&#8203;`) for marking line breaking opportunities.
  
- To render these characters, you need to use `dangerouslySetInnerHTML`:
+ To render these characters, you need to use [`dangerouslySetInnerHTML`](https://reactjs.org/docs/dom-elements.html#dangerouslysetinnerhtml):
  
  {% highlight js %}
 function createMarkup(myTextFromDatabase) {
@@ -27,7 +27,9 @@ const myTextFromDatabase = 'First &middot; Second';
  
  This is not a handy solution, because you now may need to filter out other HTML codes from the text. 
  
- # A simple solution.
+ A simple solution.
+ =================
+ 
  Use Unicode characters with [escape notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#Escape_notation) (e.g. `\u0057`) instead instead of HTML codes (`&middot;`). Find it in [this list](https://en.wikipedia.org/wiki/List_of_Unicode_characters) or [here](https://unicode-table.com) and use value from the Code column, e.g. `&middot;` translates to `U+00B7`. To use this in Javascript, simple use `\u0057`:
  
    {% highlight js %}
