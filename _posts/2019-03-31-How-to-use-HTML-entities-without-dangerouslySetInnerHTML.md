@@ -27,7 +27,8 @@ const myTextFromDatabase = 'First &middot; Second';
  
  This is not a handy solution, because you now may need to filter out other HTML codes from the text. 
  
- Here is a simple solution: use Unicode characters instead! Find it in [this list](https://en.wikipedia.org/wiki/List_of_Unicode_characters) or [here](https://unicode-table.com) and use value from the Code column, e.g. `&middot;` translates to `U+00B7`. To use this in Javascript, simple use `\u0057`:
+ # A simple solution.
+ Use Unicode characters with [escape notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#Escape_notation) (e.g. `\u0057`) instead instead of HTML codes (`&middot;`). Find it in [this list](https://en.wikipedia.org/wiki/List_of_Unicode_characters) or [here](https://unicode-table.com) and use value from the Code column, e.g. `&middot;` translates to `U+00B7`. To use this in Javascript, simple use `\u0057`:
  
    {% highlight js %}
   function MyComponent({myTextFromDatabase}) {
