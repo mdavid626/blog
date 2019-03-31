@@ -2,7 +2,7 @@
 layout: post
 title:  "How to use HTML entities without dangerouslySetInnerHTML"
 date:   2019-03-31
-banner_image: react-background.jpg
+banner_image: react-background.png
 tags: [react, web, development, code, tricks, html, html-entity, unicode, javascript]
 ---
 
