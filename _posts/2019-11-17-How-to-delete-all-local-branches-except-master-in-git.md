@@ -9,14 +9,14 @@ tags: [git, windows, linux, mac, command-prompt, command-line, version-control, 
 The idea is to list the local branches using `git branch`, filter the results and apply `git branch -d` for each line.
 
 ## Linux/MacOS
- {% highlight bash %}
+{% highlight bash %}
 git branch | grep -v master | xargs git branch -d
 {% endhighlight bash %}
 
 `git branch` lists all available local branches. With `grep -v` the `master` branch is filtered out. Then each line is passed to `git branch -D` using `xargs`.
  
 ## Windows
- {% highlight dos %}
+{% highlight dos %}
 FOR /f "tokens=*" %%G IN ('git branch ^| findstr /v master') DO git branch -d %%G
 {% endhighlight dos %}
 
@@ -25,7 +25,7 @@ The same idea here, but with different tools. Instead of `grep -v` we'll use `fi
 <!--more-->
 
 ## PowerShell
- {% highlight powershell %}
+{% highlight powershell %}
 git branch --format '%(refname:lstrip=2)' | Where-Object { $_ -ne 'master' } | ForEach-Object { git branch -d $_ }
 {% endhighlight powershell %}
 
