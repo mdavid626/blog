@@ -18,6 +18,8 @@ The idea is to list the local branches using `git branch`, filter the results an
 
 The same idea here, but with different tools. Instead of `grep -v` we'll use `findstr /v`. Unfortunately `xargs` has no alternative, the only way is to use a [`for`](https://ss64.com/nt/for_f.html) loop. 
 
+<!--more-->
+
 ## PowerShell
 `git branch --format '%(refname:lstrip=2)' | Where-Object { $_ -ne 'master' } | ForEach-Object { git branch -d $_ }`
 
