@@ -9,7 +9,7 @@ tags: [kubernetes, kubectl, kubernetes-basics]
 The following commands should help you get started with [Kubernetes](https://kubernetes.io/) and [kubectl](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands).
 
 ## Get information about your cluster
-List the resources available in your cluster.
+List the resources available in your cluster. [More details](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#get)
 {% highlight shell %}
 kubectl get nodes
 kubectl get deployments
