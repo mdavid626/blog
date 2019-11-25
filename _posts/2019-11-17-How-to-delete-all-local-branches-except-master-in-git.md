@@ -2,7 +2,6 @@
 layout: post
 title:  "How to delete all local branches except master in git"
 date:   2019-11-17
-banner_image: master-git.jpg
 tags: [git, windows, linux, mac, command-prompt, command-line, version-control, how-to]
 ---
 
