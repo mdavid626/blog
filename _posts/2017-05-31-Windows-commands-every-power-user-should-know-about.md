@@ -2,7 +2,6 @@
 layout: post
 title:  "Windows commands every power user should know about"
 date:   2017-05-31
-banner_image: windows-10-background.jpg
 tags: [blogging, windows, run, command, poweruser, admin, devops]
 ---
 
