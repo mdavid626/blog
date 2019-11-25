@@ -43,7 +43,7 @@ kubectl exec -it <pod_name> bash
 {% endhighlight shell %}
 
 ## Run Kubernetes API proxy
-This will run a local HTTP service. Using this service you can access the Kubernetes API, so you can control the cluster using HTTP requests.
+This will run a local HTTP service, which will proxy request to the cluster. Using this service you can access the Kubernetes API, so you can control the cluster using HTTP requests.
 {% highlight shell %}
 kubectl proxy
 {% endhighlight shell %}
@@ -64,6 +64,11 @@ kubectl delete all --all
 Either you expose the containers port and then you can access it from your local machine or you can use this command to temporarily forward traffic from your local machine to the container.
 {% highlight shell %}
 kubectl port-forward <pod_name> <local_port>:<container_port>
+{% endhighlight shell %}
+
+## Show version of kubectl
+{% highlight shell %}
+kubectl version --short
 {% endhighlight shell %}
 
 ## Config file location
