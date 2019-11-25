@@ -2,7 +2,6 @@
 layout: post
 title:  "Basic kubectl commands"
 date:   2019-11-25
-banner_image: basic-kubectl.jpg
 tags: [kubernetes, kubectl, kubernetes-basics]
 ---
 
