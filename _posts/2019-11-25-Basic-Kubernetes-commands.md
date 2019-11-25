@@ -29,6 +29,8 @@ kubectl logs <pod_name>
 kubectl exec <pod_name> env
 {% endhighlight shell %}
 
+<!--more-->
+
 ## Execute interactive shell in the container
 {% highlight shell %}
 kubectl exec -it <pod_name> bash
