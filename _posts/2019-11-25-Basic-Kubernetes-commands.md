@@ -9,7 +9,7 @@ tags: [kubernetes, kubectl, kubernetes-basics]
 The following commands should help you get started with [Kubernetes](https://kubernetes.io/) and [kubectl](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands).
 
 ## Get information about your cluster
-List the resources created in your cluster.
+List the resources available in your cluster.
 {% highlight shell %}
 kubectl get nodes
 kubectl get deployments
@@ -55,13 +55,13 @@ kubectl apply -f <file.yaml>
 {% endhighlight shell %}
 
 ## Delete everything from your cluster
-If you no longer need the resources you created in your cluster you can drop them with this command.
+If you no longer need the resources in your cluster you can drop them with this command.
 {% highlight shell %}
 kubectl delete all --all
 {% endhighlight shell %}
 
 ## Forward a local port to a container in the cluster
-Either you expose the containers port and then you can access it from your local machine or you can use this command to temporarily forward traffic from your local machine to the container.
+Either you expose the container's port and then you can access it from your local machine or you can use this command to temporarily forward traffic from your local machine to the container.
 {% highlight shell %}
 kubectl port-forward <pod_name> <local_port>:<container_port>
 {% endhighlight shell %}
