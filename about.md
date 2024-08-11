@@ -5,7 +5,7 @@ description: About Dávid Molnár
 banner_image: aboutPage.jpg
 ---
 
-**Dávid Molnár** a professional developer with a bachelor’s degree in computer science. His aim is to build tools and products to help people succeed in their lives.
+**Dávid Molnár** works at oculai GmbH as Stack Software Engineer. He holds a bachelor’s degree in computer science. His aim is to build products to help people succeed in their lives.
 
 David is a Continuous Delivery enthusiast. He has created many tools and applications to help simplify deploying web application on Microsoft platforms. 
 
