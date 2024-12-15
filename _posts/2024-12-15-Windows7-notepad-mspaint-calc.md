@@ -13,4 +13,4 @@ You can download them from here: [https://blog.mdavid626.com/assets/windows7_not
 
 <!--more-->
 
-You could extract the zip into a folder and run them from there, or just place them into "C:\Windows\system32". Don't forget to copy also the .mui files (in the en-US folder). You might need to disable "App aliases" in Settings -> Apps -> Advanced App Settings -> App execution aliases.
+You could extract the zip into a folder and run them from there, or just place them into `C:\Windows\system32`. Don't forget to copy also the `.mui` files (in the `en-US` folder). You might need to disable `App aliases` in `Settings -> Apps -> Advanced App Settings -> App execution aliases`.
