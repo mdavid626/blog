@@ -2,7 +2,6 @@
 layout: post
 title:  "Windows 7 notepad.exe, mspaint.exe and calc.exe"
 date:   2024-12-15
-banner_image: beach.jpg
 tags: [windows, windows7, notepad, mspaint, calc, compatibility, windows11]
 ---
 
